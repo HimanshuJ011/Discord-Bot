@@ -7,7 +7,7 @@ const commands = [
   },
   {
     name: 'twitter',
-    description: 'Twitter Handle for Joshi Sir!',
+    description: 'Twitter Handle Sir!',
   },
   {
     name: 'linkedin',
