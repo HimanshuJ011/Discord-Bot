@@ -3,7 +3,7 @@ const { REST, Routes } = require ('discord.js');
 const commands = [
   {
     name: 'about',
-    description: 'About Himanshu Sir!',
+    description: 'About section Sir!',
   },
   {
     name: 'twitter',
@@ -11,11 +11,11 @@ const commands = [
   },
   {
     name: 'linkedin',
-    description: 'Linkedin Handle for Joshi Sir!',
+    description: 'Linkedin Handle Sir!',
   },
   {
     name: 'github',
-    description: 'Github Handle for Joshi Sir!',
+    description: 'Github Handle Sir!',
   },
 ];
 
